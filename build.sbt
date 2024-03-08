@@ -2,7 +2,7 @@ name := "project_1"
 
 version := "1.0"
 
-scalaVersion := "2.12.10"
+scalaVersion := "2.12.18"
 
 resolvers += "SparkPackages" at "https://dl.bintray.com/spark-packages/maven"
 
